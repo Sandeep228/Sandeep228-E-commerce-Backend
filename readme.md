@@ -22,12 +22,3 @@ Customers are the front end-user of the application. So customers can view all t
 Users can register and login to the application and check the order history after login.
 Users can make online payments and book any product according to their choice .
 
-
-here the few images of the project . 
-![Uploading Screenshot 2022-10-03 at 3.24.18 PM.png…]()
-![Uploading Screenshot 2022-10-03 at 3.24.15 PM.png…]()
-<img width="1440" alt="Screenshot 2022-10-03 at 3 24 40 PM" src="https://user-images.githubusercontent.com/56189781/193549995-09fa9b8c-4b27-4087-90df-c1cfd402bb33.png">
-
-
-
-
