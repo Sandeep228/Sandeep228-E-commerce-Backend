@@ -103,7 +103,7 @@ const insertData = async () => {
     console.error('Error inserting data:', error);
   }
 };
-insertData();
+//insertData();
 
 const PORT = process.env.PORT || 8000;
 
