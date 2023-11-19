@@ -3,7 +3,7 @@ E-commerce  is using ReactJs to manage the front end components, ExpressJS to ma
 Used Tools & Technologies:
 Project Title: E-commerce 
 Technologies: ReactJs, ExpressJS, NodeJS.
-Back-end: MongoDB and Postmen.
+Back-end: MongoDB and Postman.
 
 Roles and Functionalities
  Let’s understand the user roles and Modules and functionalities of the E-commerce.
